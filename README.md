@@ -7,7 +7,7 @@
 - Хеши и моды для роутера
 - Настройка общего конфига
 
-
+[Cделано на курсе "Vue.js 3 c нуля до результата"](https://tocode.ru/courses/vuejs-3-s-nulya-do-rezultata/)
 
 # vue-cli-template
 
